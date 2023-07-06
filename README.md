@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PeonyLeungHuiYau
+- 👀 I’m interested in computer and technology!
+- 🌱 I’m currently learning python, C++ and JavaScript
+- 💞️ I’m looking to collaborate on anyone!
+- 📫 How to reach me - Don't :)

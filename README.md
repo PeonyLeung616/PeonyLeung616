@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Peony Leung Hui Yau.
-**CS Student @ The University of Hong Kong (HKU)** 🏛️  
+**CS Student @ The University of Hong Kong (HKU)**   
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=[your-username].[your-username]&right_color=%23ffd1dc)](https://github.com/[your-username])
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=[your-username].[your-username]&right_color=%23d1ebff)](https://github.com/[your-username])
 
 
 </div>
@@ -18,13 +18,11 @@
 
 ---
 
-## 🛠 Tech Stack
-
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=333" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=333" />
-  <img src="https://img.shields.io/badge/C++-FFD1DC?style=for-the-badge&logo=cplusplus&logoColor=333" />
+  <img src="https://img.shields.io/badge/Python-d1ebff?style=for-the-badge&logo=python&logoColor=333" />
+  <img src="https://img.shields.io/badge/JavaScript-d1ebff?style=for-the-badge&logo=javascript&logoColor=333" />
+  <img src="https://img.shields.io/badge/C++-d1ebff?style=for-the-badge&logo=cplusplus&logoColor=333" />
 </p>
 
 ---

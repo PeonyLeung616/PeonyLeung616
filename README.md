@@ -3,8 +3,6 @@
 # Hi there, I'm Peony Leung Hui Yau.
 **CS Student @ The University of Hong Kong (HKU)**   
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=[your-username].[your-username]&right_color=%23d1ebff)](https://github.com/[your-username])
-
 
 </div>
 
